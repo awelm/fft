@@ -1,0 +1,22 @@
+{
+  "name": "fft",
+  "version": "1.0.0",
+  "description": "A simple, efficient Javascript implementation of the Fast Fourier Transform",
+  "main": "fft.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akilawelihinda/fft.git"
+  },
+  "keywords": [
+    "Fast Fourier Transform",
+    "FFT",
+    "signal processing",
+    "DSP"
+  ],
+  "author": "Akila Welihinda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akilawelihinda/fft/issues"
+  },
+  "homepage": "https://github.com/akilawelihinda/fft#readme"
+}
